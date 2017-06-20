@@ -14,6 +14,8 @@
 ._图像 {
   color:#000000;
 }
+.button {
+}
 ._标题1 {
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
@@ -54,6 +56,10 @@
   text-align:left;
 }
 ._文本 {
+  text-align:left;
+}
+.text_field {
+  color:#000000;
   text-align:left;
 }
 .line {
