@@ -56,7 +56,11 @@
 ._文本 {
   text-align:left;
 }
-._流程形状 {
+.line {
+}
+.flow_shape {
+}
+.table_cell {
 }
 ._横线 {
 }
