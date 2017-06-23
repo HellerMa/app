@@ -356,10 +356,10 @@
 }
 #u86_img {
   position:absolute;
-  left:0px;
-  top:0px;
-  width:31px;
-  height:31px;
+  left:-10px;
+  top:-10px;
+  width:50px;
+  height:41px;
 }
 #u86 {
   position:absolute;
@@ -797,10 +797,10 @@
 }
 #u115_img {
   position:absolute;
-  left:0px;
-  top:0px;
-  width:31px;
-  height:31px;
+  left:-10px;
+  top:-10px;
+  width:50px;
+  height:41px;
 }
 #u115 {
   position:absolute;

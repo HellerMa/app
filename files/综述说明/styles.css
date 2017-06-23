@@ -172,10 +172,10 @@
 }
 #u57_img {
   position:absolute;
-  left:0px;
-  top:0px;
-  width:101px;
-  height:101px;
+  left:-10px;
+  top:-10px;
+  width:120px;
+  height:111px;
 }
 #u57 {
   position:absolute;
